@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=130&section=header&text=Sergey%20Kattsyn&fontSize=40&fontColor=c9d1d9&fontAlignY=65&animation=fadeIn&desc=ML%20Engineer%20·%20Competition%20ML%20·%20Novosibirsk&descSize=16&descAlignY=85&descFontColor=8b949e" width="100%"/>
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Sergey+Kattsyn+%2F+phantom2059;ML+Engineer+%C2%B7+Competition+ML;Novosibirsk%2C+Russia" alt="Typing SVG" />
 
 <br/>
-
-<div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@phantom2059-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/phantom2059)
 &nbsp;
@@ -75,31 +73,19 @@
 
 ---
 
-## What I work with
-
-```
-Tabular ML & feature engineering    ██████████████████████  CatBoost / LGBM competition pipelines
-RAG systems & LLM fine-tuning       ████████████████████░░  FAISS · quantization · LoRA
-Anti-fraud & anomaly detection      ██████████████████░░░░  Data Fusion 2026
-NLP · text classification           ████████████████░░░░░░  BERT-based · RuBERT · embeddings
-Computer Vision                     ████████████░░░░░░░░░░  YOLO · detection pipelines
-```
-
----
-
 ## Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=phantom2059&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom2059&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117"/>
+<img src="https://streak-stats.demolab.com?user=phantom2059&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D&ring=4493F8&fire=4493F8&currStreakLabel=4493F8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=phantom2059&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=phantom2059&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=4493F8&icon_color=4493F8"/>
+&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom2059&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=4493F8"/>
 
 </div>
 
@@ -108,7 +94,5 @@ Computer Vision                     ████████████░░�
 <div align="center">
 
 *Preparing for IOAI 2026 &nbsp;·&nbsp; Open to research collaborations*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
