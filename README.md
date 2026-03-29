@@ -21,25 +21,6 @@
 
 ---
 
-## Projects
-
-**[ICEQ](https://github.com/phantom2059/ICEQ)** &nbsp;·&nbsp; Automatic question generation from large texts
-> Fine-tuned T-lite-it-1.0 on custom QA dataset · FAISS clustering · DeepSeek / Qwen API · Flask web interface
-
-**[data-fusion-guardian-ICEQ](https://github.com/phantom2059/data-fusion-guardian-ICEQ)** &nbsp;·&nbsp; Anti-fraud detection · Data Fusion 2026
-> 150+ features · 4× CatBoost with product decomposition · CoLES contrastive pretraining · feedback-injection model
-
-**[URL Detector](https://github.com/phantom2059/URL_detector)** &nbsp;·&nbsp; Phishing detection · end-to-end pipeline
-> CatBoost → ONNX → Chrome Extension · **96.2% Acc · AUC 0.993** · 800k URLs · local WASM inference
-
-**[RAG Pipeline](https://github.com/phantom2059/baseline_rag)** &nbsp;·&nbsp; Russian-language QA system
-> Mistral-7B-Saiga · FAISS · 4/8-bit quantization · pymorphy2 lemmatization · CLI + Jupyter
-
-**[Oral Exam Scorer](https://github.com/phantom2059/rasti_v_it)** &nbsp;·&nbsp; Automated grading · Hackathon "Расти в IT"
-> Qwen2.5-VL-3B + LoRA fine-tune · RuBERT semantic similarity · 4-bit NF4 quantization
-
----
-
 ## Stack
 
 <table>
@@ -85,6 +66,25 @@
 </td>
 </tr>
 </table>
+
+---
+
+## Projects
+
+**[ICEQ](https://github.com/phantom2059/ICEQ)** &nbsp;·&nbsp; Automatic question generation from large texts
+> Fine-tuned T-lite-it-1.0 on custom QA dataset · FAISS clustering · DeepSeek / Qwen API · Flask web interface
+
+**[data-fusion-guardian-ICEQ](https://github.com/phantom2059/data-fusion-guardian-ICEQ)** &nbsp;·&nbsp; Anti-fraud detection · Data Fusion 2026
+> 150+ features · 4× CatBoost with product decomposition · CoLES contrastive pretraining · feedback-injection model
+
+**[URL Detector](https://github.com/phantom2059/URL_detector)** &nbsp;·&nbsp; Phishing detection · end-to-end pipeline
+> CatBoost → ONNX → Chrome Extension · **96.2% Acc · AUC 0.993** · 800k URLs · local WASM inference
+
+**[RAG Pipeline](https://github.com/phantom2059/rag-pipeline-ru)** &nbsp;·&nbsp; Russian-language QA system
+> Mistral-7B-Saiga · FAISS · 4/8-bit quantization · pymorphy2 lemmatization · CLI + Jupyter
+
+**[Oral Exam Scorer](https://github.com/phantom2059/rasti_v_it)** &nbsp;·&nbsp; Automated grading · Hackathon "Расти в IT"
+> Qwen2.5-VL-3B + LoRA fine-tune · RuBERT semantic similarity · 4-bit NF4 quantization
 
 ---
 
