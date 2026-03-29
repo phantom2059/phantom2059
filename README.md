@@ -5,8 +5,6 @@
 <br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@phantom2059-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/phantom2059)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-phantom2059-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phantom2059)
 
 </div>
 
@@ -47,7 +45,11 @@
 
 ## Stack
 
-**ML / Gradient Boosting**
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**ML / Boosting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
@@ -56,6 +58,10 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
 
 **Deep Learning / LLM**
 
@@ -64,12 +70,23 @@
 ![FAISS](https://img.shields.io/badge/FAISS-0866FF?style=flat-square)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-4a4a4a?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
 
 **Backend / Infra**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -83,9 +100,9 @@
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=phantom2059&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=4493F8&icon_color=4493F8"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=phantom2059&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=4493F8&icon_color=4493F8"/>
 &nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom2059&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=4493F8"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom2059&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=4493F8"/>
 
 </div>
 
