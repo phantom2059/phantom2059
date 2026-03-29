@@ -1,16 +1,114 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=130&section=header&text=Sergey%20Kattsyn&fontSize=40&fontColor=c9d1d9&fontAlignY=65&animation=fadeIn&desc=ML%20Engineer%20·%20Competition%20ML%20·%20Novosibirsk&descSize=16&descAlignY=85&descFontColor=8b949e" width="100%"/>
+</div>
 
-<!--
-**phantom2059/phantom2059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/Telegram-@phantom2059-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/phantom2059)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-phantom2059-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phantom2059)
+
+</div>
+
+---
+
+## Achievements
+
+| Year | Competition | Result |
+|------|------------|--------|
+| 2026 | **NTO "Big Data & ML"** — Национальная технологическая олимпиада | 🥇 **1st place** · individual & team |
+| 2026 | **NTO "Artificial Intelligence"** | 🥈 Prize winner · finalist |
+| 2025 | **Russian AI Olympiad** — Всероссийская олимпиада по ИИ | **Top 50 finalist** out of 55,000+ participants |
+| 2025 | **TenderHack** — Novosibirsk | 🥇 **1st place** · ₽500,000 prize pool |
+
+---
+
+## Projects
+
+**[ICEQ](https://github.com/phantom2059/ICEQ)** &nbsp;·&nbsp; Automatic question generation from large texts
+> Fine-tuned T-lite-it-1.0 on custom QA dataset · FAISS clustering · DeepSeek / Qwen API · Flask web interface
+
+**[data-fusion-guardian-ICEQ](https://github.com/phantom2059/data-fusion-guardian-ICEQ)** &nbsp;·&nbsp; Anti-fraud detection · Data Fusion 2026
+> 150+ features · 4× CatBoost with product decomposition · CoLES contrastive pretraining · feedback-injection model
+
+**[URL Detector](https://github.com/phantom2059/URL_detector)** &nbsp;·&nbsp; Phishing detection · end-to-end pipeline
+> CatBoost → ONNX → Chrome Extension · **96.2% Acc · AUC 0.993** · 800k URLs · local WASM inference
+
+**[RAG Pipeline](https://github.com/phantom2059/baseline_rag)** &nbsp;·&nbsp; Russian-language QA system
+> Mistral-7B-Saiga · FAISS · 4/8-bit quantization · pymorphy2 lemmatization · CLI + Jupyter
+
+**[Oral Exam Scorer](https://github.com/phantom2059/rasti_v_it)** &nbsp;·&nbsp; Automated grading · Hackathon "Расти в IT"
+> Qwen2.5-VL-3B + LoRA fine-tune · RuBERT semantic similarity · 4-bit NF4 quantization
+
+**[Animal Classifier](https://github.com/phantom2059/Classification_of_animals_by_photo)** &nbsp;·&nbsp; Detection & classification
+> YOLOv8x · 72 animal classes · dual-stage pipeline · Open Images Dataset
+
+---
+
+## Stack
+
+**ML / Gradient Boosting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
+![LightGBM](https://img.shields.io/badge/LightGBM-026E02?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC3E1B?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Deep Learning / LLM**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0866FF?style=flat-square)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-4a4a4a?style=flat-square)
+
+**Backend / Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## What I work with
+
+```
+Tabular ML & feature engineering    ██████████████████████  CatBoost / LGBM competition pipelines
+RAG systems & LLM fine-tuning       ████████████████████░░  FAISS · quantization · LoRA
+Anti-fraud & anomaly detection      ██████████████████░░░░  Data Fusion 2026
+NLP · text classification           ████████████████░░░░░░  BERT-based · RuBERT · embeddings
+Computer Vision                     ████████████░░░░░░░░░░  YOLO · detection pipelines
+```
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=phantom2059&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom2059&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=phantom2059&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*Preparing for IOAI 2026 &nbsp;·&nbsp; Open to research collaborations*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" width="100%"/>
+
+</div>
