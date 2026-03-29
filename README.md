@@ -98,9 +98,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=phantom2059&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=4493F8&icon_color=4493F8&cache_seconds=1800"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantom2059&theme=github_dark"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom2059&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=4493F8&cache_seconds=1800"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantom2059&theme=github_dark"/>
 
 </div>
 
