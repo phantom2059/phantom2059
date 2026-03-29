@@ -38,9 +38,6 @@
 **[Oral Exam Scorer](https://github.com/phantom2059/rasti_v_it)** &nbsp;·&nbsp; Automated grading · Hackathon "Расти в IT"
 > Qwen2.5-VL-3B + LoRA fine-tune · RuBERT semantic similarity · 4-bit NF4 quantization
 
-**[Animal Classifier](https://github.com/phantom2059/Classification_of_animals_by_photo)** &nbsp;·&nbsp; Detection & classification
-> YOLOv8x · 72 animal classes · dual-stage pipeline · Open Images Dataset
-
 ---
 
 ## Stack
@@ -82,7 +79,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Bitrix24](https://img.shields.io/badge/Bitrix24-001D6C?style=flat-square&logo=bitrix24&logoColor=white)
 
 </td>
 </tr>
@@ -100,9 +97,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=phantom2059&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=4493F8&icon_color=4493F8"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=phantom2059&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=4493F8&icon_color=4493F8&cache_seconds=1800"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom2059&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=4493F8"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom2059&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=4493F8&cache_seconds=1800"/>
 
 </div>
 
@@ -110,6 +107,6 @@
 
 <div align="center">
 
-*Preparing for IOAI 2026 &nbsp;·&nbsp; Open to research collaborations*
+*Qualifying for IOAI 2026 · Open to research collaborations*
 
 </div>
