@@ -71,6 +71,9 @@
 
 ## Projects
 
+**[1st-place-NTO-BDiMO-2026](https://github.com/phantom2059/1st-place-NTO-BDiMO-2026)** &nbsp;·&nbsp; Extreme few-shot product classification · NTO BDiMO 2026 Finals
+> 4582 categories, 1-3 samples each · Lookup cascade (~40% items, ~93% acc) + centroid kNN with 3-channel TF-IDF · Semi-supervised TF-IDF · Transductive anchors · **76.36% LB** · no GPU, scikit-learn only
+
 **[ICEQ](https://github.com/phantom2059/ICEQ)** &nbsp;·&nbsp; Automatic question generation from large texts
 > Fine-tuned T-lite-it-1.0 on custom QA dataset · FAISS clustering · DeepSeek / Qwen API · Flask web interface
 
