@@ -16,9 +16,9 @@
 |------|------------|--------|
 | 2026 | **NTO "Big Data & ML"** — Национальная технологическая олимпиада | 🥇 **1st place** · individual & team |
 | 2026 | **NTO "Artificial Intelligence"** | 🥈 Prize winner · individual standings |
-| 2025 | **Russian AI Olympiad** — Всероссийская олимпиада по ИИ | **Top 50 finalist** out of 55,000+ participants |
+| 2026 | **Data Fusion Contest 2026** — Companion | 🥇 **Winner** · team ICEQ |
 | 2025 | **TenderHack** — Novosibirsk | 🥇 **1st place** · ₽500,000 prize pool |
-
+| 2025 | **Russian AI Olympiad** — Всероссийская олимпиада по ИИ | **Top 50 finalist** out of 55,000+ participants |
 ---
 
 ## Stack
