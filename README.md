@@ -71,6 +71,9 @@
 
 ## Projects
 
+**[local-lua-cli](https://github.com/phantom2059/local-lua-cli)** &nbsp;·&nbsp; Autonomous Lua code agent · CLI
+> Fine-tuned Qwen3-4B served via Ollama (or any compatible local model) · Generates, validates, lints and self-repairs Lua scripts · Fully local inference, no cloud
+
 **[1st-place-NTO-BDiMO-2026](https://github.com/phantom2059/1st-place-NTO-BDiMO-2026)** &nbsp;·&nbsp; Extreme few-shot product classification · NTO BDiMO 2026 Finals
 > 4582 categories, 1-3 samples each · Lookup cascade (~40% items, ~93% acc) + centroid kNN with 3-channel TF-IDF · Semi-supervised TF-IDF · Transductive anchors · **76.36% LB** · no GPU, scikit-learn only
 
@@ -95,15 +98,15 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=phantom2059&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D&ring=4493F8&fire=4493F8&currStreakLabel=4493F8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=phantom2059&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=4493F8&title_color=4493F8&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="170" src="https://streak-stats.demolab.com?user=phantom2059&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D&ring=4493F8&fire=4493F8&currStreakLabel=4493F8" />
 
 </div>
 
 <div align="center">
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantom2059&theme=github_dark"/>
-&nbsp;
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantom2059&theme=github_dark"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom2059&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4493F8&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
