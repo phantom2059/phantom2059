@@ -77,6 +77,9 @@
 **[1st-place-NTO-BDiMO-2026](https://github.com/phantom2059/1st-place-NTO-BDiMO-2026)** &nbsp;·&nbsp; Extreme few-shot product classification · NTO BDiMO 2026 Finals
 > 4582 categories, 1-3 samples each · Lookup cascade (~40% items, ~93% acc) + centroid kNN with 3-channel TF-IDF · Semi-supervised TF-IDF · Transductive anchors · **76.36% LB** · no GPU, scikit-learn only
 
+**[9th-place-NTO-AI-2026](https://github.com/phantom2059/9th-place-NTO-AI-2026)** &nbsp;·&nbsp; Recommender system · NTO AI 2026 Finals · team ICEQ
+> 4-pipeline ensemble blended via RRF · CatBoost YetiRank · LightGBM LambdaRank · CF ensemble (Item2Item, User2User, ALS-BM25) · EASE / ALS / SVD / ItemKNN candidates · ~250 hand-crafted features
+
 **[ICEQ](https://github.com/phantom2059/ICEQ)** &nbsp;·&nbsp; Automatic question generation from large texts
 > Fine-tuned T-lite-it-1.0 on custom QA dataset · FAISS clustering · DeepSeek / Qwen API · Flask web interface
 
@@ -98,15 +101,23 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=phantom2059&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=4493F8&title_color=4493F8&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-&nbsp;
 <img height="170" src="https://streak-stats.demolab.com?user=phantom2059&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D&ring=4493F8&fire=4493F8&currStreakLabel=4493F8" />
 
 </div>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom2059&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4493F8&text_color=C9D1D9&langs_count=8" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantom2059&theme=github_dark" />
+&nbsp;
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantom2059&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phantom2059&theme=github_dark" />
+&nbsp;
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phantom2059&theme=github_dark&utcOffset=7" />
 
 </div>
 
