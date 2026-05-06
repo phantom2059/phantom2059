@@ -5,6 +5,7 @@
 <br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@phantom2059-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/phantom2059)
+[![Kaggle](https://img.shields.io/badge/Kaggle-@phantom2059-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/phantom2059)
 
 </div>
 
@@ -108,14 +109,6 @@
 <div align="center">
 
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantom2059&theme=github_dark&v=2" />
-&nbsp;
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantom2059&theme=github_dark&v=2" />
-
-</div>
-
-<div align="center">
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phantom2059&theme=github_dark&v=2" />
 &nbsp;
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phantom2059&theme=github_dark&utcOffset=7&v=2" />
 
