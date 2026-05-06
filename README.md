@@ -101,23 +101,23 @@
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=phantom2059&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D&ring=4493F8&fire=4493F8&currStreakLabel=4493F8" />
+<img height="170" src="https://github-readme-streak-stats-salesp07.vercel.app?user=phantom2059&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D&ring=4493F8&fire=4493F8&currStreakLabel=4493F8" />
 
 </div>
 
 <div align="center">
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantom2059&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantom2059&theme=github_dark&v=2" />
 &nbsp;
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantom2059&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantom2059&theme=github_dark&v=2" />
 
 </div>
 
 <div align="center">
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phantom2059&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phantom2059&theme=github_dark&v=2" />
 &nbsp;
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phantom2059&theme=github_dark&utcOffset=7" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phantom2059&theme=github_dark&utcOffset=7&v=2" />
 
 </div>
 
