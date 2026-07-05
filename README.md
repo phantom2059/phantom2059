@@ -15,6 +15,7 @@
 
 | Year | Competition | Result |
 |------|------------|--------|
+| 2026 | **Yandex ML Challenge** — Young Con 2026 · federal ML competition | **Top 12** of 100 finalists · prize zone (top-15) |
 | 2026 | **NTO "Big Data & ML"** — Национальная технологическая олимпиада | 🥇 **1st place** team · **Top 8** individual |
 | 2026 | **NTO "Artificial Intelligence"** | 🥈 **Prize winner** · individual standings |
 | 2026 | **Data Fusion Contest 2026** — Companion · team ICEQ | 🥇 **Winner** · ₽50,000 prize pool|
