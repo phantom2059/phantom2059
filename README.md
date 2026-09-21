@@ -15,7 +15,7 @@
 
 | Year | Competition | Result |
 |------|------------|--------|
-| 2026 | **E-CUP by Ozon** — LTV prediction track · finals | **Top 4** in finals |
+| 2026 | **E-CUP 2026** — Ozon Tech ML championship · LTV prediction · team ICEQ | **Top 4** of 5 finalist teams |
 | 2026 | **Yandex ML Challenge** — Young Con 2026 · federal ML competition | **Top 12** of 100 finalists · prize zone (top-15) |
 | 2026 | **NTO "Big Data & ML"** — Национальная технологическая олимпиада | 🥇 **1st place** team · **Top 8** individual |
 | 2026 | **NTO "Artificial Intelligence"** | 🥈 **Prize winner** · individual standings |
