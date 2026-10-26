@@ -15,6 +15,7 @@
 
 | Year | Competition | Result |
 |------|------------|--------|
+| 2026 | **Открой#Моспром** — LinQ case · team ICEQ | 🥈 **2nd place** · ₽150,000 |
 | 2026 | **E-CUP 2026** — Ozon Tech ML championship · LTV prediction · team ICEQ | **Top 4** of 5 finalist teams |
 | 2026 | **Yandex ML Challenge** — Young Con 2026 · federal ML competition | **Top 12** of 100 finalists · prize zone (top-15) |
 | 2026 | **NTO "Big Data & ML"** — Национальная технологическая олимпиада | 🥇 **1st place** team · **Top 8** individual |
