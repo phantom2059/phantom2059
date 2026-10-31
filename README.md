@@ -79,6 +79,9 @@
 **[LinQ Guard](https://github.com/phantom2059/mosProm)** &nbsp;·&nbsp; Workplace safety video analytics on a Russian AI accelerator · Открой#Моспром 2026 · team ICEQ
 > 7 YOLOv8 detection & pose models · 6 of 7 ported to LinQ TPU in INT8 (head/tail graph split, calibration on camera frames, O5 compile) · **8–13 ms** per model on chip · per-camera model fusion ×1.4–2.6 · rule engine for 10 violation types · Telegram bot with deadlines & escalation
 
+**[ozon-ecup](https://github.com/phantom2059/ozon-ecup)** &nbsp;·&nbsp; Customer GMV forecasting · Ozon E-CUP 2026 Finals · team ICEQ
+> 250k customers, 30-day GMV, RMSLE · ZILN head (zero gate × value distribution) · daily generative models integrated over the horizon · stack of 26 components (boosting, GRU / transformer, BTYD) · LB-measured direction ladder with shrinkage · **1.6452 RMSLE** vs 2.195 baseline
+
 **[local-lua-cli](https://github.com/phantom2059/local-lua-cli)** &nbsp;·&nbsp; Autonomous Lua code agent · CLI
 > Fine-tuned Qwen3-4B served via Ollama (or any compatible local model) · Generates, validates, lints and self-repairs Lua scripts · Fully local inference, no cloud
 
