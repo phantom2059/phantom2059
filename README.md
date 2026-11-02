@@ -79,6 +79,9 @@
 **[LinQ Guard](https://github.com/phantom2059/mosProm)** &nbsp;·&nbsp; Workplace safety video analytics on a Russian AI accelerator · Открой#Моспром 2026 · team ICEQ
 > 7 YOLOv8 detection & pose models · 6 of 7 ported to LinQ TPU in INT8 (head/tail graph split, calibration on camera frames, O5 compile) · **8–13 ms** per model on chip · per-camera model fusion ×1.4–2.6 · rule engine for 10 violation types · Telegram bot with deadlines & escalation
 
+**[Line 0](https://github.com/phantom2059/tenderhack-iceq)** &nbsp;·&nbsp; Offline RAG support assistant for zakupki.mos.ru · TenderHack 2026 · team ICEQ
+> Hybrid search BM25 + FRIDA, RRF, cross-encoder rerank · abstains on 3 independent signals and hands off to a human · **0% hallucinations** on out-of-KB questions · RuadaptQwen2.5-7B on one GPU, no external calls · **3.3 s** median answer
+
 **[ozon-ecup](https://github.com/phantom2059/ozon-ecup)** &nbsp;·&nbsp; Customer GMV forecasting · Ozon E-CUP 2026 Finals · team ICEQ
 > 250k customers, 30-day GMV, RMSLE · ZILN head (zero gate × value distribution) · daily generative models integrated over the horizon · stack of 26 components (boosting, GRU / transformer, BTYD) · LB-measured direction ladder with shrinkage · **1.6452 RMSLE** vs 2.195 baseline
 
